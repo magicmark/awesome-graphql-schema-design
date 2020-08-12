@@ -1,4 +1,4 @@
-# Awesome GraphQL Schema Design
+# GraphQL Schema Design Resources
 
 A collection of styleguides / "_do's and don'ts_" etc related to GraphQL Schema Design.
 
