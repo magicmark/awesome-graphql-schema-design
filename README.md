@@ -6,6 +6,7 @@ Please PR any other guides you find!
 
 | Organization / Author | Link                                                                                                                                                   |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Yelp | [GraphQL Guidelines](https://yelp.github.io/graphql-guidelines/schema-design.html) |
 | Shopify               | [Designing a GraphQL API Rules](https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md#tldr-the-rules)                                        |
 | artsy                 | [GraphQL Schema Design](https://github.com/artsy/README/blob/master/playbooks/graphql-schema-design.md)                                                |
 | Lee Byron             | [Lessons From 4 Years of GraphQL](https://www.graphql.com/articles/4-years-of-graphql-lee-byron)                                                       |
