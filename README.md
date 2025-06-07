@@ -13,7 +13,7 @@ Please PR any other guides you find!
 | Leapgraph             | [GraphQL Schema Design Best Practices](https://leapgraph.com/graphql-schema-design-best-practices)                                                     |
 | Marc-André Giroux     | [GraphQL Schema Design: Building Evolvable Schemas](https://www.apollographql.com/blog/graphql-schema-design-building-evolvable-schemas-1501f3c59ed5/) |
 | atheros.ai            | [GraphQL best practices for GraphQL schema design](https://atheros.ai/blog/graphql-best-practices-for-graphql-schema-design)                           |
-| Digital Iceland | [GraphQL naming conventions](https://github.com/island-is/handbook/blob/graphql-naming-conventions/docs/api-design-guide/graphql-naming-conventions.md) |
+| Digital Iceland | [GraphQL naming conventions]([https://github.com/island-is/handbook/blob/graphql-naming-conventions/docs/api-design-guide/graphql-naming-conventions.md](https://github.com/island-is/handbook/blob/9cf3c87152829408d7d27ca672db1485ed4a2fa1/docs/api-design-guide/naming-conventions.md)) |
 
 ## Honourable mentions
 
