@@ -14,6 +14,7 @@ Please PR any other guides you find!
 | Marc-André Giroux     | [GraphQL Schema Design: Building Evolvable Schemas](https://www.apollographql.com/blog/graphql-building-evolvable-schemas) |
 | atheros.ai            | [GraphQL best practices for GraphQL schema design](https://atheros.ai/blog/graphql-best-practices-for-graphql-schema-design)                           |
 | Digital Iceland | [GraphQL naming conventions](https://github.com/island-is/handbook/blob/9cf3c87152829408d7d27ca672db1485ed4a2fa1/docs/api-design-guide/naming-conventions.md) |
+| Caleb Meredith | [Designing GraphQL mutations](https://medium.com/apollo-stack/designing-graphql-mutations-e09de826ed97) |
 
 ## Honourable mentions
 
